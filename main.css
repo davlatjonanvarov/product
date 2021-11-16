@@ -1,0 +1,35 @@
+h1 {
+    font-size: 60px;
+    background-color:cyan;
+    color: crimson;
+    style="text-align: center;"
+}
+
+}
+h2{
+    style="text-align: center;"
+    color: darkblue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul{
+    style="text-align: center;"
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+}
+
+  a{
+      color: rgb(55, 0, 255);
+      
+  }
+  body{
+      background-color: cyan;
+  }
