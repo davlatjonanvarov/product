@@ -1,35 +1,30 @@
-h1 {
+h1{
+    color: brown;
+    background-color: coral;
     font-size: 60px;
-    background-color:cyan;
-    color: crimson;
-    style="text-align: center;"
 }
-
+img{
+    border-radius: 50%;
 }
 h2{
-    style="text-align: center;"
-    color: darkblue;
+    text-align: center;
+    color: brown;
     font-size: 30px;
-    font-family: 'Times New Roman', Times, serif;
+    font font-family: cursive;
 }
-ul{
-    style="text-align: center;"
-    font-size: 25px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  
 
+ol{
+    list-style: none;
+    font-size: 30px;
+    font-family: Arial;
+    text-align: center;
 }
+
 a{
     text-decoration: none;
 }
-img{
-    width: 100%;
-}
 
-  a{
-      color: rgb(55, 0, 255);
-      
-  }
-  body{
-      background-color: cyan;
-  }
+
+
+
+
